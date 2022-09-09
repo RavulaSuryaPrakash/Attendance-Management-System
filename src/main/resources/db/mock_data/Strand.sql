@@ -1,0 +1,11 @@
+insert into strands (name) values ('STEM');
+insert into strands (name) values ('ABM');
+insert into strands (name) values ('HUMSS');
+insert into strands (name) values ('GAS');
+insert into strands (name) values ('TVL');
+insert into strands (name) values ('ARTS and DESIGN');
+insert into strands (name) values ('Agri-Fishery Arts');
+insert into strands (name) values ('Home Economics');
+insert into strands (name) values ('Industrial Arts');
+insert into strands (name) values ('Information and Communications Technology (ICT)');
+insert into strands (name) values ('TVL Maritime');
